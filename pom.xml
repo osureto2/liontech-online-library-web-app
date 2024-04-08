@@ -94,7 +94,7 @@
 		<log4j.version>1.2.17</log4j.version>		                   
 		<sonar.host.url>http://18.117.224.125:9000/</sonar.host.url>
 		<sonar.login>osureto2</sonar.login>  
-		<sonar.login>osureto2</sonar.login>
+		<sonar.password>a699d21739009fdb2ee6d9eb85be7a8c947290ca</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
